@@ -2,7 +2,7 @@
 
 Data for Exercise 3 of Laboratory 3 (A2026), *Physical Principles of Advanced MRI*, Polytechnique Montréal.
 
-Download **`lab3-ex3-collaborator.zip`** from this repository's [Releases](https://github.com/GBM8360/Lab3_data/releases). It contains:
+Download **`lab3-for_students.zip`** from this repository's [Releases](https://github.com/GBM8360/Lab3_data/releases). It contains:
 
 | File | Contents |
 |---|---|
